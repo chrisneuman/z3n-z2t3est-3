@@ -1,0 +1,7 @@
+zendesk.organization_field__custom_field_options chris__is {
+  raw_name = "is"
+  value = "is"
+  _parent = [
+    zendesk.organization_field.instance.chris,
+  ]
+}

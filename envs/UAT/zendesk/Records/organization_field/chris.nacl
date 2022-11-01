@@ -1,0 +1,13 @@
+zendesk.organization_field chris {
+  type = "dropdown"
+  key = "chris"
+  raw_title = "Chris"
+  raw_description = ""
+  active = true
+  system = false
+  custom_field_options = [
+    zendesk.organization_field__custom_field_options.instance.chris__chris,
+    zendesk.organization_field__custom_field_options.instance.chris__is,
+    zendesk.organization_field__custom_field_options.instance.chris__awesome,
+  ]
+}

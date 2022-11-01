@@ -146,7 +146,7 @@ zendesk.account_setting {
     dynamic_contents = false
     light_agents = false
     ticket_forms = false
-    user_org_fields = false
+    user_org_fields = true
     is_abusive = false
     rich_content_in_emails = true
     benchmark_opt_out = false

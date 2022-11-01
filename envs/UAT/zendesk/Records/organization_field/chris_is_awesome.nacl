@@ -1,0 +1,8 @@
+zendesk.organization_field chris_is_awesome {
+  type = "text"
+  key = "chris_is_awesome"
+  raw_title = "Chris is awesome"
+  raw_description = ""
+  active = true
+  system = false
+}

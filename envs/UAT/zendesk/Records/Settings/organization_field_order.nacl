@@ -1,5 +1,7 @@
 zendesk.organization_field_order {
   active = [
+    zendesk.organization_field.instance.chris,
+    zendesk.organization_field.instance.chris_is_awesome,
   ]
   inactive = [
   ]
