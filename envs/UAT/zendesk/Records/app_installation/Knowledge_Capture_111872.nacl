@@ -1,0 +1,21 @@
+zendesk.app_installation Knowledge_Capture_111872@su {
+  app_id = 111872
+  product = "support"
+  settings = {
+    allowCreation = true
+    allowFlagging = true
+    allowAssignOwner = false
+    alwaysShowInEditor = true
+    alwaysShowInSidebar = false
+    autoSelectBrand = true
+    rapidResolve = true
+    name = "Knowledge Capture"
+    title = "Knowledge Capture"
+  }
+  enabled = true
+  recurring_payment = false
+  collapsible = true
+  paid = false
+  has_unpaid_subscription = false
+  has_incomplete_subscription = false
+}

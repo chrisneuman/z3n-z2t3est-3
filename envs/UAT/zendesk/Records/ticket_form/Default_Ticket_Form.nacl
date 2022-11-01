@@ -1,0 +1,8 @@
+zendesk.ticket_form Default_Ticket_Form@s {
+  raw_name = "Default Ticket Form"
+  raw_display_name = "Default Ticket Form"
+  end_user_visible = true
+  active = true
+  default = true
+  in_all_brands = true
+}

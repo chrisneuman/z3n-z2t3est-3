@@ -1,0 +1,10 @@
+zendesk.support_address Guardians_of_the_Galaxy@s {
+  brand_id = zendesk.brand.instance.Guardians_of_the_Galaxy@s
+  default = true
+  name = "Guardians of the Galaxy"
+  email = "support@z3n-z2test-3.zendesk.com"
+  forwarding_status = "verified"
+  spf_status = "verified"
+  cname_status = "verified"
+  domain_verification_status = "verified"
+}

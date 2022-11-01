@@ -1,0 +1,20 @@
+zendesk.trigger_order {
+  order = [
+    {
+      category = zendesk.trigger_category.instance.Notifications
+      active = [
+        zendesk.trigger.instance.Notify_all_agents_of_received_request@s,
+        zendesk.trigger.instance.Notify_assignee_of_assignment@s,
+        zendesk.trigger.instance.Notify_assignee_of_comment_update@s,
+        zendesk.trigger.instance.Notify_assignee_of_reopened_ticket@s,
+        zendesk.trigger.instance.Notify_group_of_assignment@s,
+        zendesk.trigger.instance.Notify_requester_and_CCs_of_comment_update@s,
+        zendesk.trigger.instance.Notify_requester_and_CCs_of_received_request@s,
+        zendesk.trigger.instance.Notify_requester_of_new_proactive_ticket@s,
+      ]
+      inactive = [
+        zendesk.trigger.instance.Auto_assign_to_first_email_responding_agent@bsssss,
+      ]
+    },
+  ]
+}

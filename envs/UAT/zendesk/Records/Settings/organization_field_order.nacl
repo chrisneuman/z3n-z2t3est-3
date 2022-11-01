@@ -1,0 +1,6 @@
+zendesk.organization_field_order {
+  active = [
+  ]
+  inactive = [
+  ]
+}

@@ -1,0 +1,6 @@
+zendesk.user_field_order {
+  active = [
+  ]
+  inactive = [
+  ]
+}
